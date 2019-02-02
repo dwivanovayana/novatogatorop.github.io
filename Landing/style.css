@@ -1,0 +1,92 @@
+/*FONTS + COULORS*/
+
+body {
+	background: rgb(240,240,240);
+	color: rgb(20,20,20);
+	font-family: 'Open Sans', sans-serif;
+	margin: 0px;
+
+}
+
+h1 {
+	font-family: 'Playfair Display', serif;
+	font-size: 50px;
+	color: rgb(0,0,0);
+}
+
+h2 {
+	font-size: 18px;
+}
+
+a{
+	text-decoration: none;
+	color: #DB8A74;
+	font-weight: bold;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #E6AF2E;
+}
+
+#myface {
+	border-radius: 50%
+}
+
+
+
+
+/*CUSTOMS DESIGN*/
+
+#banner {
+	text-align: center;
+	background-image: url("https://farm1.staticflickr.com/671/23553153606_a51da1d949_h.jpg");
+	background-size: cover;
+	padding: 100px;
+	color: white;
+}
+#banner h1 {
+	font-family: 'Playfair Display', serif;
+	font-size: 50px;
+	color: rgb(50,50,50);
+}
+#banner p {
+	color: white;
+	font-size: 30px;
+	font-weight: lighter;
+}
+
+.section {
+	padding: 50px;
+	font-weight: lighter;
+	text-align: center;
+}
+
+#footer {
+	padding: 30px;
+	background: rgb(70, 70, 70);
+	color: lightgrey;
+}
+
+#footer a {
+	color: lightgrey;
+	font-size: 15px;
+}
+#footer a:hover {
+	color: white;
+}
+
+
+
+
+
+
+
+
+<!--
+background: lightgray;
+padding: 50px;
+margin: 50px;
+border-radius: 3px;
+box-shadow: 1px 1px 8px #E6AF2E;
+-->
