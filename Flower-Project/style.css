@@ -1,0 +1,101 @@
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.margin-right {
+  margin-right: auto;
+}
+
+
+.link-list {
+  padding-left: 0;
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding-top: 20px;
+}
+
+ul {
+  padding-top: 30px
+  margin: 20px 0px;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 80px;
+
+}
+
+li {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.padding-right {
+  padding-right: 0;
+  margin-right: 5px;
+}
+
+a {
+  text-decoration: none;
+  font-family: 'Arimo', sans-serif;
+  font-size: 15px;
+  color: black;
+}
+
+li a:hover {
+  border-bottom: 1.5px solid rgb(90,90,90); 
+}
+
+.header {
+  font-family: 'Fahkwang', sans-serif;
+  font-color: rgb(255,255,255);
+  letter-spacing: 1.5px;
+  font-size: 12.5px;
+  position: absolute;
+  text-transform: uppercase;
+  width: 100%;
+}
+
+.header:hover {
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(0,30,0);
+}
+
+.logo {
+  position: fixed;
+  top: 40%;
+  left: calc(51% - 120px);
+  font: 90px serif;
+  letter-spacing: 20px;
+  text-transform: uppercase;
+  color: #fff;
+  opacity: 1;
+}
+
+.image a, img {
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  cursor: default;
+}
+
+.project img:hover {
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
