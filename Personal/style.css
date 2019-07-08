@@ -1,0 +1,140 @@
+header {
+	padding: 60px 0px;
+	text-align: center;
+	background-color: rgb(255,255,255);
+}
+
+header a {
+	font-family: helvetica;
+	font-size: 12px;
+	color: rgb(0,0,0);
+	text-transform: uppercase;
+	text-decoration: none;
+	letter-spacing: 2px
+	font-weight: 700;
+	font-style: normal;
+	line-height: 1em;
+	font-stretch: extra-condensed;
+	padding: 3px 0px;
+	margin: 0px 20px;
+}
+
+header a:hover {
+	border-bottom: 2px solid rgb(0,0,0);
+}
+
+body {
+	background: rgb(255,255,255);
+	color: rgb(0,0,0);
+}
+
+
+section {
+	padding: 30px 34px;
+	max-width: 1080%;
+	box-sizing: border-box;
+	margin: 0px 50px;
+	color: #1f1f1f;
+	margin-top: 20px;
+}
+
+h3 {
+	font-size: 12px;
+	font-family: helvetica;
+	font-style: normal;
+	font-weight: lighter;
+	text-transform: uppercase;
+	margin-top: 0;
+	margin-bottom: 1px;
+}
+
+h1 {
+	font-size: 58px;
+	font-family: times new roman;
+	font-style: normal;
+	line-height: 1.8em;
+	font-weight: lighter;
+	font-weight: 400
+	color: #1f1f1f;
+	padding-top: 0;
+	line-height: 1.2;
+	margin-top: 10px;
+}
+
+h1 a {
+	text-decoration: none;
+	font-weight: bold;
+	color: rgb(0,0,0);
+}
+
+h2 a {
+	font-size: 30px;
+	font-family: times new roman;
+	font-style: normal;
+	line-height: 1.8em;
+	font-style: normal;
+	font-weight: 400
+	color: #1f1f1f;
+	color: rgb(0,0,0);
+	text-decoration: none;
+	font-weight: lighter;
+	text-align: center;
+}
+
+h2 a:last-child {
+	margin-left: 450px;
+}
+
+
+.buttons button {
+	border: 2px solid lightgrey;
+	border-radius: 40px;
+	padding: 7px 12px;
+	letter-spacing: 4px;
+	border-color: #4f4f4f;
+	margin: 0px 0px;
+}
+
+button a {
+	font-size: 10px;
+    font-weight: 900;
+    letter-spacing: 4px;
+    color: #4f4f4f;
+    text-decoration: none;
+}
+
+.buttons button:last-child {
+	margin-left: 50px;
+}
+
+footer {
+	padding-top: 0px;
+	padding-bottom: 80px;
+	text-align: center;
+	background-color: rgb(255,255,255);
+	margin-top: 50px;
+}
+
+footer a {
+	font-family: helvetica;
+	font-size: 12px;
+	color: rgb(0,0,0);
+	text-transform: uppercase;
+	text-decoration: none;
+	letter-spacing: 2px
+	font-weight: 700;
+	font-style: normal;
+	line-height: 1em;
+	font-stretch: extra-condensed;
+	position: relative;
+	padding: 3px 0px;
+	margin: 0px 40px;
+}
+
+footer a:hover {
+	border-bottom: 2px solid rgb(220,210,0);
+}
+
+
+
+
